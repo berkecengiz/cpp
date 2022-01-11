@@ -888,9 +888,3 @@ bool CMscnProblem::bConstraintSatisfied(double *pdSolution, bool &bIsSuccess)
 
 
 
-/*
-https://github.com/zaxoavoki/pwr/blob/2f6c8c42ab4fe05165ba7ffac438ed50e9a2f023/TEP/Lab_9/CMscnProblem.cpp
-https://github.com/zaxoavoki/pwr/blob/2f6c8c42ab4fe05165ba7ffac438ed50e9a2f023/TEP/Lab_9/CMscnProblem.h
-https://github.com/AltiTorie/Tep_9/blob/master/Solution/Solution/CMscnProblem.cpp
-https://github.com/kamilagalka/TEP9/blob/e0e358906bf3b2ef4e14029597d66074eefff7df/lista9/CMscnProblem.cpp
- */
