@@ -2,7 +2,6 @@
 //  CFileErrCode.cpp
 //  lab4
 //
-//  Created by Adriana Wilkowska on 27/11/2019.
 //  Copyright © 2019 Berke Cengiz. All rights reserved.
 //
 
